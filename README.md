@@ -1,6 +1,6 @@
 # MIOpen
 
-AMD's library for high peformance machine learning primitives. MIOpen supports two programming models - 
+AMD's library for high performance machine learning primitives. MIOpen supports two programming models - 
 1. OpenCL 
 2. [HIP](https://github.com/ROCm-Developer-Tools/HIP)
 
